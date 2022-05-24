@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "857540638865",
+    "firebase_url": "https://kursovai-f4d38-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kursovai-f4d38",
+    "storage_bucket": "kursovai-f4d38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857540638865:android:7703cb33bc2d8fe2166730",
+        "android_client_info": {
+          "package_name": "com.example.kursovai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857540638865-go63vhm2ojnbiueu8343p3o4mo3bppo3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kursovai",
+            "certificate_hash": "98fcc5f179caea9be457aaaddec2511a9a96acef"
+          }
+        },
+        {
+          "client_id": "857540638865-cqmu1bshrlplt9gn7rv1dv5cta2ni9hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC5OTLOk48D2omqhXr8adsc3BXp1LuCT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857540638865-cqmu1bshrlplt9gn7rv1dv5cta2ni9hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
