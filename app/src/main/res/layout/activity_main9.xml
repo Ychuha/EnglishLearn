@@ -17,61 +17,61 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/congradualtions"
-            android:textSize="20sp"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="15dp"/>
+            android:layout_marginTop="15dp"
+            android:text="@string/congradualtions"
+            android:textSize="20sp" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/total"
+            android:layout_marginStart="30dp"
             android:layout_marginTop="100dp"
-            android:layout_marginStart="30dp"
-            android:textSize="15sp"/>
+            android:text="@string/total"
+            android:textSize="15sp" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/correct"
+            android:layout_marginStart="30dp"
             android:layout_marginTop="200dp"
-            android:layout_marginStart="30dp"
-            android:textSize="15sp"/>
+            android:text="@string/correct"
+            android:textSize="15sp" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/wrong"
-            android:layout_marginTop="300dp"
             android:layout_marginStart="30dp"
-            android:textSize="15sp"/>
+            android:layout_marginTop="300dp"
+            android:text="@string/wrong"
+            android:textSize="15sp" />
 
         <TextView
             android:id="@+id/total"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/total"
-            android:layout_marginTop="100dp"
             android:layout_marginStart="160dp"
-            android:textSize="15sp"/>
+            android:layout_marginTop="100dp"
+            android:text="@string/total"
+            android:textSize="15sp" />
 
         <TextView
             android:id="@+id/correct"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/correct"
-            android:layout_marginTop="200dp"
             android:layout_marginStart="160dp"
-            android:textSize="15sp"/>
+            android:layout_marginTop="200dp"
+            android:text="@string/correct"
+            android:textSize="15sp" />
 
         <TextView
             android:id="@+id/wrong"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/wrong"
-            android:layout_marginTop="300dp"
             android:layout_marginStart="160dp"
-            android:textSize="15sp"/>
+            android:layout_marginTop="300dp"
+            android:text="@string/wrong"
+            android:textSize="15sp" />
 
         <Button
             android:id="@+id/btnres"
@@ -79,8 +79,8 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="350dp"
-            android:text="@string/home"
-            android:backgroundTint="@color/blue"/>
+            android:backgroundTint="@color/blue"
+            android:text="@string/home" />
 
     </FrameLayout>
 
